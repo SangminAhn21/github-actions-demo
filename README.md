@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/SangminAhn21/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/SangminAhn21/github-actions-demo/actions/workflows/main.yml)
+
 # github-actions-demo
 This is a repo for building out Gihub Actions and Tricks
 
